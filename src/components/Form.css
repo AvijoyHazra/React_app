@@ -1,0 +1,26 @@
+.UserForm{
+    width: 30vw;
+    margin: auto;
+    padding-top: 30px;
+}
+.UserFormDiv{
+    width: 38vw;
+    background-color: rgba(64,203,180,255);
+    margin: auto;
+    height: 75vh;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.navheader
+{
+    padding: 0px;
+}
+
+.UserFormDiv1{
+    width: 38vw;
+    background-color: rgba(64,203,180,255);
+    margin: auto;
+    height: 40vh;
+    border-radius: 10px;
+    margin-top: 100px;
+}

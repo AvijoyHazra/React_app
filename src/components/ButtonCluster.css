@@ -1,0 +1,14 @@
+.btnclusterdiv1{
+    width: 30vw;
+    height: 60vh;
+    margin: auto;
+    background-color: rgba(64,203,180,255);
+    margin-top:50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.divcluster0{
+    text-align: center;
+}

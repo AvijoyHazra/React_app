@@ -1,0 +1,12 @@
+.footerdiv{
+    /* width: 100vw; */
+    /* background-color: aquamarine; */
+    height: 50vh;
+}
+.footerimg{
+    /* width: 80vw; */
+    /* height: 40vh; */
+    height: 70vh;
+    width: 50vw;
+    padding-top: 50px;
+}

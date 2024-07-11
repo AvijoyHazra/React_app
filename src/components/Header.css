@@ -1,0 +1,18 @@
+.header{
+    background-color: rgba(64,203,180,255);
+    /* color: white; */
+}
+.brandname{
+    font-weight: 800;
+    /* color: rgb(241, 235, 235); */
+    font-size: 30px;
+}
+.iconbell{
+    margin-right: 30px;
+}
+.iconuser{
+    margin-right: 10px;
+}
+.navheader{
+    padding: 0px;
+}
