@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import ButtonCluster from "./components/ButtonCluster";
 import {createBrowserRouter,RouterProvider} from 'react-router-dom';
-import LoginForm from "./components/LoginForm"
+import LoginForm from "./components/LoginForm";
 
 function App() {
   const router=createBrowserRouter([

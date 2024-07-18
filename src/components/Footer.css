@@ -10,3 +10,9 @@
     width: 50vw;
     padding-top: 50px;
 }
+.footer2{
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(64,203,180,255);
+    width: 100%;
+}
